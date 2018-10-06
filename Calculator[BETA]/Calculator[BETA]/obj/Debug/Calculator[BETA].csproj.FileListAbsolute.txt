@@ -1,0 +1,9 @@
+E:\programmes\C#\WinForm\Calculator[BETA]\Calculator[BETA]\bin\Debug\Calculator[BETA].exe.config
+E:\programmes\C#\WinForm\Calculator[BETA]\Calculator[BETA]\bin\Debug\Calculator[BETA].exe
+E:\programmes\C#\WinForm\Calculator[BETA]\Calculator[BETA]\bin\Debug\Calculator[BETA].pdb
+E:\programmes\C#\WinForm\Calculator[BETA]\Calculator[BETA]\obj\Debug\Calculator[BETA].csprojAssemblyReference.cache
+E:\programmes\C#\WinForm\Calculator[BETA]\Calculator[BETA]\obj\Debug\Calculator_BETA_.Properties.Resources.resources
+E:\programmes\C#\WinForm\Calculator[BETA]\Calculator[BETA]\obj\Debug\Calculator[BETA].csproj.GenerateResource.cache
+E:\programmes\C#\WinForm\Calculator[BETA]\Calculator[BETA]\obj\Debug\Calculator[BETA].csproj.CoreCompileInputs.cache
+E:\programmes\C#\WinForm\Calculator[BETA]\Calculator[BETA]\obj\Debug\Calculator[BETA].exe
+E:\programmes\C#\WinForm\Calculator[BETA]\Calculator[BETA]\obj\Debug\Calculator[BETA].pdb
